@@ -2,7 +2,7 @@
 
 ## Відео
 
-- [Postman для початківців (Курс)](https://www.youtube.com/watch?v=VnSWu81G1RQ)
+- [Postman для початківців (БУДЕ ДОДАНИЙ ПІЗНІШЕ]()
 
 ---
 
