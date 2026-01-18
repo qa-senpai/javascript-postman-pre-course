@@ -1,9 +1,11 @@
-# javascript-postman-pre-course
+![QA Dojo](qa_dojo.png)
+
+# Міні курс з JavaScript і http для самопідготовки
 
 ## Зміст
 
 - [Урок 1: Вступ](1-lesson.md)
-- [Урок 2](2-lesson.md)
+- [Урок 2: Змінні, типи даних, умовні оператори](2-lesson.md)
 - [Урок 3: Логічні оператори](3-lesson.md)
 - [Урок 4: Цикли](4-lesson.md)
 - [Урок 5: Функції](5-lesson.md)
