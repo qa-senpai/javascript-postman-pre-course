@@ -2,7 +2,7 @@
 
 ## Відео
 
-- [Postman для початківців (БУДЕ ДОДАНИЙ ПІЗНІШЕ]()
+- [Postman для початківців (БУДЕ ДОДАНИЙ ПІЗНІШЕ](https://youtu.be/OYrljsDi1uM?si=d8N5NKtHN3bXQIds)
 
 ---
 
